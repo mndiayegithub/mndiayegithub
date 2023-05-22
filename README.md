@@ -9,5 +9,3 @@ I'm a Cloud & DevOps Engineer, passionate about new technlogies, open-source pro
 I like to share and contribute on projects around different technologies : Ansible, Docker, Kubernetes, Terraform, Jenkins, Cloud Services (AWS, Azure, ...), ...
 
 Enjoy😄!
-
-![Profile views](https://komarev.com/ghpvc/?username=mndiayegithub)
