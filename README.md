@@ -5,9 +5,9 @@ Let's make an introduction of myself in a few lines.
   <ul>
     <li>🎓 Graduated from ESIEA </li>
     <li>👨🏽‍💼 I'm a <b>DevOps Engineer</b></li>
-    <li>📍 Based at <b>Paris.</b></li>
+    <li>📍 Based in <b>Paris.</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
-    <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
+    <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Ansible...</b></li>
     <li>📮 You can contact me directly here : <b>mndiayepro97@gmail.com</b>
 
   </ul>
